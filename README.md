@@ -36,4 +36,7 @@
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Wireshark_icon_new.png/960px-Wireshark_icon_new.png?20230509085415" alt="wireshark" width="40" height="40"/>
   </a>
+    <a href="https://prelogin-authoring.netacad.com/courses/packet-tracer" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Cisco_Packet_Tracer_Icon.png" alt="packet-tracer" width="40" height="40"/>
+  </a> 
 </p>
